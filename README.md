@@ -18,11 +18,11 @@ Este projeto foi desenvolvido utilizando a linguagem **Python**.
 1. Certifique-se de ter o **Python** instalado na sua máquina.
 2. Faça o clone do repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/devcesar7/calculadora-de-descontos-e-parcelas.git
    ```
 3. Acesse a pasta do projeto:
    ```sh
-   cd nome-do-repositorio
+   cd calculadora-de-descontos-e-parcelas
    ```
 4. Execute o script:
    ```sh
