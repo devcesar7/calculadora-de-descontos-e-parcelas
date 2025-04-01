@@ -26,7 +26,7 @@ Este projeto foi desenvolvido utilizando a linguagem **Python**.
    ```
 4. Execute o script:
    ```sh
-   python calculadora.py
+   python main.py
    ```
 5. Insira os valores solicitados no terminal e veja os resultados.
 
@@ -56,6 +56,4 @@ O valor de cada parcela (5x) será: R$198.00
 ## 🤝 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request com melhorias ou novas funcionalidades.
 
-## 📄 Licença
-Este projeto está sob a licença MIT - veja o arquivo **LICENSE** para mais detalhes.
 
